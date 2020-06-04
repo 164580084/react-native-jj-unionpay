@@ -1,6 +1,6 @@
 {
   "name": "react-native-jy-unionpay",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "银联的react-native模块",
   "main": "src/index.js",
   "scripts": {
