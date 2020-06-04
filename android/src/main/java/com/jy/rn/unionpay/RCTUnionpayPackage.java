@@ -1,4 +1,4 @@
-package com.cpming.rn.unionpay;
+package com.jy.rn.unionpay;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

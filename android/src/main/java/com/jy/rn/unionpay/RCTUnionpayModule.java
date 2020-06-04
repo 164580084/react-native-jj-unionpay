@@ -1,5 +1,5 @@
 
-package com.cpming.rn.unionpay;
+package com.jy.rn.unionpay;
 
 import android.app.Activity;
 import android.content.Intent;

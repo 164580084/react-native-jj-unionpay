@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {SafeAreaView, StyleSheet, FlatList, View, Text, Platform, TouchableHighlight, StatusBar} from 'react-native';
-import {Unionpay, UnionpayEmitter, UNIONPAY_MODAL_PRODUCTION, UNIONPAY_MODAL_DEVELOPMENT} from 'react-native-china-unionpay';
+import {Unionpay, UnionpayEmitter, UNIONPAY_MODAL_PRODUCTION, UNIONPAY_MODAL_DEVELOPMENT} from 'react-native-jy-unionpay';
 
 const TN_URL_01 = "http://101.231.204.84:8091/sim/getacptn";
 
@@ -173,7 +173,7 @@ export default class App extends Component {
                 </View>
             </SafeAreaView>
         );
-    } 
+    }
 }
 
 class ResultView extends Component {
@@ -234,7 +234,7 @@ class ResultView extends Component {
 
     render() {
         return (
-            <FlatList style={{flex: 1, backgroundColor: "#eee"}} 
+            <FlatList style={{flex: 1, backgroundColor: "#eee"}}
                 data={this.dataSource}
                 keyExtractor={(item, index) => (index + "_" + this.keyPrefix)}
                 renderItem={({item}) => {

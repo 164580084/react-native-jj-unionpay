@@ -1,7 +1,7 @@
 {
-  "name": "react-native-china-unionpay",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-native-jy-unionpay",
+  "version": "1.0.1",
+  "description": "银联的react-native模块",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,13 @@
   "keywords": [
     "react",
     "native",
+    "rn",
+    "wechat",
+    "alipay",
+    "pay",
+    "jy",
     "react-native",
-    "react-native-china-unionpay",
+    "react-native-jy-unionpay",
     "china unionpay",
     "unionpay",
     "china",
@@ -19,8 +24,8 @@
     "银联支付",
     "中国银联支付"
   ],
-  "author": "caipeiming",
-  "homepage": "https://github.com/caipeiming/react-native-china-unionpay.git",
+  "author": "jingyu.qi",
+  "homepage": "https://github.com/qijingyu2013/react-native-jy-unionpay.git",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"

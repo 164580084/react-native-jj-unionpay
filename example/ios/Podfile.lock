@@ -345,7 +345,7 @@ DEPENDENCIES:
   - React-RCTVibration (from `../node_modules/react-native/Libraries/Vibration`)
   - ReactCommon/callinvoker (from `../node_modules/react-native/ReactCommon`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
-  - RNUnionpay (from `../node_modules/react-native-china-unionpay`)
+  - RNUnionpay (from `../node_modules/react-native-jy-unionpay`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -413,7 +413,7 @@ EXTERNAL SOURCES:
   ReactCommon:
     :path: "../node_modules/react-native/ReactCommon"
   RNUnionpay:
-    :path: "../node_modules/react-native-china-unionpay"
+    :path: "../node_modules/react-native-jy-unionpay"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
