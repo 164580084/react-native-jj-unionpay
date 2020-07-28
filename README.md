@@ -1,5 +1,5 @@
 
-# react-native-jy-unionpay
+# react-native-jj-unionpay
 
 [![npm version](https://img.shields.io/npm/v/react-native-jy-unionpay.svg)](https://www.npmjs.com/package/react-native-jy-unionpay)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
